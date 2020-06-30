@@ -1,1 +1,3 @@
-push_to_github.sh
+init_repo_and_push.sh
+later_pushes.sh
+node_modules
